@@ -1,11 +1,30 @@
 # the-conduit-wii-area51-2005
+## The Conduit Wii - Area51 2005 Remake
+A remake of Area 51 the 2005 science-fiction first-person shooter rebuilt in The Conduit (Wii) engine, using The Conduit's pointer aiming, motion controls, advanced lighting, environmental effects, and Wii FPS mechanics as the technical base.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/the-conduit-wii-area51-2005](https://treegit.macosxjs.com/?url=igiteam/the-conduit-wii-area51-2005)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/the-conduit-wii-area51-2005/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/the-conduit-wii-area51-2005/git/trees/main?recursive=1)
+
+## Base Gameplay
+[![The Conduit Wii](https://i.ytimg.com/vi/uW3d08scVy8/hqdefault.jpg)](https://ytembed.macosxjs.com/?bWVad0xTMVNDOHc)
+
+[![Area 51 2005](https://img.youtube.com/vi/0QZ7VIYgFmc/hqdefault.jpg)](https://ytembed.macosxjs.com/?MFFaN1ZJWWdGbWM)
+
+[![The Conduit Wii Dolphin](https://img.youtube.com/vi/yNjN8nYmVcI/hqdefault.jpg)](https://ytembed.macosxjs.com/?eU5qTjhuWW1WY0k)
+
+## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
 
-[![The Conduit Wii](https://img.youtube.com/vi/meZwLS1SC8w/hqdefault.jpg)](https://ytembed.macosxjs.com/?bWVad0xTMVNDOHc)
+## Reference Links
 
-[![Area 51 2005](https://img.youtube.com/vi/0QZ7VIYgFmc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MFFaN1ZJWWdGbWM)
 
-[![The Conduit Wii Dolphin](https://img.youtube.com/vi/yNjN8nYmVcI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?eU5qTjhuWW1WY0k)
 
 # Area 51 (2005) Source Code
 
@@ -127,3 +146,41 @@ Select the **Xbox** branch and follow the instructions.
 - **Snapshot Date:** The source code is a snapshot from 2005-03-31 10:40:19, just before the game's official release.
 - **Discovery:** It was found at a garage sale of a former THQ developer.
 - **Contents:** This release includes the source code for the Entropy engine, game logic, and targets for PC, PS2, Xbox, and an early version for GameCube. Additionally, debug symbols for various platforms are available in the release. Assets are not included, but those can be recovered from the retail game files.
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
+
+
